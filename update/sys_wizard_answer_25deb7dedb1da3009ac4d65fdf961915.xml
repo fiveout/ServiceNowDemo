@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>GITDemo Table</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>GITDemo Table</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">93a1a9441320130013d936328144b0b1</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-24 16:14:21</sys_created_on>
+        <sys_id>25deb7dedb1da3009ac4d65fdf961915</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GITDemo Table</sys_name>
+        <sys_package display_value="GITDemo" source="x_simsi_gitdemo">f7ceb3dedb1da3009ac4d65fdf9619a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GITDemo">f7ceb3dedb1da3009ac4d65fdf9619a8</sys_scope>
+        <sys_update_name>sys_wizard_answer_25deb7dedb1da3009ac4d65fdf961915</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-24 16:14:21</sys_updated_on>
+        <table/>
+        <target_url>x_simsi_gitdemo_table.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
